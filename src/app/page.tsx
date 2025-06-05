@@ -40,14 +40,7 @@ export default function Home() {
           </h1>
           <p className="text-xl md:text-2xl text-slate-600 dark:text-slate-300 mb-8 max-w-3xl mx-auto">
             全栈开发工程师 · 技术爱好者 · 创新者
-          </p>
-          <p className="text-lg text-slate-500 dark:text-slate-400 mb-12 max-w-2xl mx-auto">
-            专注于现代Web技术，热爱创造优雅且高效的数字解决方案
-          </p>
-          <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <a href="#contact" className="bg-gradient-to-r from-blue-600 to-purple-600 text-white px-8 py-4 rounded-lg font-semibold hover:from-blue-700 hover:to-purple-700 transition-all shadow-lg hover:shadow-xl">
-              联系我们
-            </a>
+         
             <a href="#projects" className="border-2 border-blue-600 text-blue-600 dark:text-blue-400 px-8 py-4 rounded-lg font-semibold hover:bg-blue-600 hover:text-white transition-all">
               查看项目
             </a>
