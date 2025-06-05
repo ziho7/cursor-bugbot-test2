@@ -1,4 +1,4 @@
-import Image from "next/image";
+import Images from "next/image";
 
 export default function Home() {
   return (
